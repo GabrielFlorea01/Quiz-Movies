@@ -1,0 +1,34 @@
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe.config
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.pdb
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form1.resources
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Properties.Resources.resources
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.pdb
+C:\Users\Gabi\source\repos\Joc Quiz BUN\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form2.resources
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe.config
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.pdb
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form1.resources
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form2.resources
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\Desktop\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.pdb
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe.config
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\bin\Debug\Joc Quiz BUN.pdb
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form1.resources
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Form2.resources
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc_Quiz_BUN.Properties.Resources.resources
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.exe
+C:\Users\Gabi\Desktop\FACULTATE\AN1_AN2_AN3\Proiect_Joc Quiz_Florea Gabriel_G609\Joc Quiz BUN\obj\Debug\Joc Quiz BUN.pdb
